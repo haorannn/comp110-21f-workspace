@@ -1,4 +1,4 @@
-"""This program aimed to do some calculations on the two numbers that you type into. """
+"""This program aimed to do some calculations on the two numbers that you type into."""
 __author: str = "730490705"
 left: str = input("Left-hand side: ")
 right: str = input("Right-hand side: ")
