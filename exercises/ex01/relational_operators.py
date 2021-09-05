@@ -1,6 +1,7 @@
 """This program is aimed to judge the relationships between two numbers that you typed in."""
 
-__author__: str = "730490705"
+__author__ = "730490705"
+
 left: str = input("Left-hand side: ")
 right: str = input("Right-hand side: ")
 
